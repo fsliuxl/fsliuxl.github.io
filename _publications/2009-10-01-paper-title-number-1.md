@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Theory and fast learned solver for ℓ1-TV regularization"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
